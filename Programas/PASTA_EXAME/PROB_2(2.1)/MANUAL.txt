@@ -1,0 +1,11 @@
+Suponha que para uma família com 2 filhos escolhida ao acaso, sabemos que um dos filhos é
+rapaz. Qual a probabilidade do outro filho ser também rapaz?
+
+%Sabendo que =>  P(A|B)=P(AB)/P(B)
+
+% A - família tem 2 rapazes
+% B - família tem pelo menos 1 rapaz
+
+o "sabemos que" é o B
+
+

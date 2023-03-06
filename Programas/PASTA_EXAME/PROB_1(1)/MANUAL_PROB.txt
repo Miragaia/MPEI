@@ -1,0 +1,1 @@
+prob() só valores exatos se quisermos saber por exemplo >= <= ver calculoProbDif
